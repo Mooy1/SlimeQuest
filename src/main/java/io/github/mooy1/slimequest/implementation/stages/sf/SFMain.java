@@ -10,6 +10,5 @@ public class SFMain extends QuestStage {
 
     @Override
     protected void addPages() {
-
     }
 }
